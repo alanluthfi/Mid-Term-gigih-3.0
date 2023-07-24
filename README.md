@@ -1,7 +1,7 @@
 # Mid-Term Gigih 3.0
 ## DataBase structure
 Using database named Mid-Term consisting 3 collection which is called comment, product, and thumbnail to save the respective data.
-![](Database Structure.png)
+![](DatabaseStructure.png)
 
 ## API structure
 - using express router to access the respective data for each document collection
@@ -10,7 +10,7 @@ Using database named Mid-Term consisting 3 collection which is called comment, p
 - comment route must be using videoID from thumbnail to get the return of data from respective thumbnail videoID 
 
 ## List API request and response
-can be viewed in [this file](List API request and response can be viewed in this file.md)
+can be viewed in ![this file](List API request and response can be viewed in this file.md)
 
 ## How to run in local
 ### required module:
