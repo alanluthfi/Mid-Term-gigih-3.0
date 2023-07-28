@@ -19,6 +19,14 @@ dotenv
 express
 mongoose
 ```
+### Set up the MongoDB connection:
+- Make sure you have MongoDB installed and running on your local machine.
+- Copy .env.example to .env
+  
+  ```
+  cp .env.example .env
+  ```
+- In the `.env` file, update the MongoDB connection string to point to your local MongoDB instance.
 
 ### start the server with:
 `npm run dev`
